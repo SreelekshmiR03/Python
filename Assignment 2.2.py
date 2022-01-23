@@ -16,13 +16,3 @@ y.append('hindi')
 print(y)
 x=tuple(y)
 print(x)
-
-
-
-
-
-
-
-
-
-
