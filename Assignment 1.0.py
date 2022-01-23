@@ -1,6 +1,6 @@
 #1
-#floating is a number, positive or negative, containing one or more decimals.
- #It includes the integer part as well as the fractional part
+floating is a number, positive or negative, containing one or more decimals.
+It includes the integer part as well as the fractional part
  
  #2
 dir
@@ -110,25 +110,4 @@ pi=3.14
 r=float(input("The radius of a circle:"))
 area=pi*r**2
 print("The area of the circle" + " is:" ,area)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
