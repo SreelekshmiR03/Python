@@ -273,31 +273,3 @@ if rain==1:
     print("i will dance")
 else:
     print("i will not dance")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
