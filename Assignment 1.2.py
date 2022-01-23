@@ -257,22 +257,3 @@ print(l2)
 
 Negative indexing is used to display data from the end of the list and 
 can  be used to reverse a number without using other functions.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
